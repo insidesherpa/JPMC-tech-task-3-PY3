@@ -70,3 +70,6 @@ Note: You may need to (hard) refresh the link to the public gdrive to see all of
 
 <h2>How to submit your work</h2>
 <p>A patch file is what is required from you to submit. To create a patch file, <a href="https://insidesherpa.s3.amazonaws.com/vinternships/companyassets/Sj7temL583QAYpHXD/create_patch_file_v3a.pdf">follow this guide</a>. Then submit the patch file in the <a href="https://www.insidesherpa.com/modules/R5iK7HMxJGBgaSbvk/EbtbrgmwKbgqcXyGt">JPM Module 3 Page</a>.</p>
+
+## Reference Documentation
+https://docs.contour.so/insidesherpa/JPMC-tech-task-3-PY3/getting-started
